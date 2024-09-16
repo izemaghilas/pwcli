@@ -1,6 +1,5 @@
 package dz.izemaghilas.cmd;
 
-import dz.izemaghilas.cmd.exceptions.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertThrowsExactly;

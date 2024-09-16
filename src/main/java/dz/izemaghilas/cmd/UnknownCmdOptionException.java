@@ -1,4 +1,4 @@
-package dz.izemaghilas.cmd.exceptions;
+package dz.izemaghilas.cmd;
 
 public class UnknownCmdOptionException extends Exception {
     private final String cmdName;
